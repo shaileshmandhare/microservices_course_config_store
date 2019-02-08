@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url:jdbc:mysql://localhost:3306/sample?createDatabaseIfNotExist=true
+    url:jdbc:mysql://localhost:3306/samplerentDB?createDatabaseIfNotExist=true
       username:root
         gitpassword:admin
           driver_class_name:com.mysql.jdbc.Driver
